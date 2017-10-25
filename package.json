@@ -1,5 +1,5 @@
 {
-    "name": "google-apps-script",
+    "name": "@jeanremidelteil/google-apps-script",
     "version": "2.3.0",
     "description": "gas, the complete CLI for Google Apps Script",
     "main": "index",
@@ -10,7 +10,7 @@
     "preferGlobal": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/maartendesnouck/google-apps-script.git"
+        "url": "git+https://github.com/JeanRemiDelteil/google-apps-script.git"
     },
     "keywords": [
         "google-apps-script",
@@ -24,9 +24,9 @@
     "author": "Maarten Desnouck (maarten.desnouck@gmail.com)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/maartendesnouck/google-apps-script/issues"
+        "url": "https://github.com/JeanRemiDelteil/google-apps-script/issues"
     },
-    "homepage": "https://github.com/maartendesnouck/google-apps-script#readme",
+    "homepage": "https://github.com/JeanRemiDelteil/google-apps-script#readme",
     "dependencies": {
         "colors": "^1.1.2",
         "commander": "^2.11.0",
